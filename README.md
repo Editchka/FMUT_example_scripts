@@ -6,7 +6,7 @@ On this page, you will find example scripts for conducting mass univariate tests
 
 If you want to perform these tests with this toolbox, I recommend you visit [Eric Field’s page on FMUT](https://github.com/ericcfields/FMUT/wiki) for more information on how to install and use it.
 
-# Example scripts
+# Example Scripts
 
 The example scripts on this page were initially developed for a study investigating the effects of emotion and emotional ambiguity on early sensory ERPs (P1, N1, N170). 
 
